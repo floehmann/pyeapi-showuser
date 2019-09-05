@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import sys
+impart sys
 import pyeapi
 import pprint
 import argparse
