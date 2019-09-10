@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import sys
-impart pyeapi
+import pyeapi
 import pprint
 import argparse
 
